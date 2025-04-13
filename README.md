@@ -1,2 +1,3 @@
-# pdf_restrictions_remover
-A little app to remove restrictions (copy, print ...) from a PDF
+# Remove Restrictions from a PDF
+A little app with GUI to remove restrictions (copy, print ...) from PDFs
+
